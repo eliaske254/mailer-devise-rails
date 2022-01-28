@@ -1,3 +1,3 @@
 Mailer Devise
 
-Sending confrimation emails when a user signs up.
+Sending a confirmation email when a user signs up.
